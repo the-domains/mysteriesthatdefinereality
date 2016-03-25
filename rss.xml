@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mysteries that Define Reality]]></title>
+        <description><![CDATA[Mysteries that Define Reality]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 25 Mar 2016 07:44:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dave Castro Hints to New Masters Divisions at the CrossFit Games]]></title>
+            <description><![CDATA[<article><h1>Dave Castro Hints to New Masters Divisions at the CrossFit Games</h1><p>Speaking during the cool-down show after the live announcement of 16.3 in the CrossFit Open, CrossFit Games Director Dave Castro was asked if there might be any additions to the Masters categories in the CrossFit Games.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83b56ac5f6f64d015ada2ab85d2f7257cc2a26e0.jpg"></article>]]></description>
+            <link>http://boxlifemagazine.com/dave-castro-hints-to-new-masters-divisions-at-the-crossfit-games/</link>
+            <guid isPermaLink="false">ac6d99a6-94df-4e11-9adf-87d61799322d</guid>
+            <pubDate>Fri, 25 Mar 2016 07:44:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
