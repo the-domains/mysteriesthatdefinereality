@@ -1,0 +1,28 @@
+name: mysteriesthatdefinereality
+favicon: null
+layout_spectrum: 0.228603046387434
+typography_spectrum: 0.6572540279012173
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.13292840542271733
+  lightness: 0.7160057667642832
+  saturation: 0.5782012774143368
+  rhythmicContrast: 0.8911901179235429
+purpose: []
