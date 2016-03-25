@@ -1,15 +1,18 @@
-layout_spectrum: 0.962406
-favicon: null
-name: mysteriesthatdefinereality
-purpose: []
+color:
+  brandStrength: 0.1329284054227173
+  saturation: 0.1441103
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  lightness: 0.01691729
+  rhythmicContrast: 0.7525063
 analytics:
-  twitter: null
-  google: null
   facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  google: null
+  twitter: null
 collections:
   - index:
       navigable: true
@@ -23,18 +26,15 @@ collections:
     permalink:
       path: '/:title/'
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
-color:
-  brandStrength: 0.1329284054227173
-  lightness: 0.01691729
-  saturation: 0.1441103
-  rhythmicContrast: 0.7525063
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+favicon: null
+layout_spectrum: 0.962406
+purpose: []
+name: mysteriesthatdefinereality
+opengraph:
+  image: null
+  type: null
+  appId: null
 typography_spectrum: 0.4154135
